@@ -1,17 +1,25 @@
 #banner {
 	width:100%;
-	color: #000000;
+background-color: #000000;
 }
 
+body{
+	background-color: #000000;
+}
 .principal{
-
-	background: black;
+color: #f7f2f2;
+	background: rgb(20, 20, 20);
 	padding: 30px;
 }
 
 .titulo-principal {
 	padding-left: 20px;
+color: #f7f2f2;
 }
+
+	
+
+
 
 .titulo-centralizado {
 	text-align: center
